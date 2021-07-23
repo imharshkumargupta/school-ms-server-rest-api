@@ -1,0 +1,34 @@
+{
+  "name": "sms-server",
+  "version": "1.0.0",
+  "description": "this is a rest api server for the school management system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imharshkumargupta/school-ms-server-rest-api.git"
+  },
+  "keywords": [
+    "school",
+    "management",
+    "system",
+    "server",
+    "rest",
+    "restapi",
+    "rest-api",
+    "api"
+  ],
+  "author": "Harsh Kumar Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imharshkumargupta/school-ms-server-rest-api/issues"
+  },
+  "homepage": "https://github.com/imharshkumargupta/school-ms-server-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.5"
+  }
+}
